@@ -25,16 +25,16 @@ body {
   }
   
   .past {
-    background-color: #e0e0e0;
+    background-color: #505352;
   }
   
   .present {
-    background-color: #4285f4;
+    background-color: #f44242;
     color: white;
   }
   
   .future {
-    background-color: #ffffff;
+    background-color: #08f447;
   }
   
   .saveBtn {
