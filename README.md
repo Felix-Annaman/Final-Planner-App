@@ -5,3 +5,6 @@ This is a simple web application that allows employees with busy schedules to ma
 ## Usage
 
 To use the app, simply click on a timeblock and enter an event. When you're done, click the save button in that timeblock to save the event in local storage. The app will persist events between refreshes of a page, so you don't have to worry about losing your schedule if you accidentally close the app or refresh the page.
+
+![image](https://github.com/Felix-Annaman/Final-Planner-App/assets/34190643/9ae32a43-4d99-48a2-b6eb-0dc3d509d0b8)
+
